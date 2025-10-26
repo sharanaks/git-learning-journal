@@ -44,3 +44,18 @@ This project documents my journey learning **Git version control** - from basics
 
 ---
 *Last updated: $(Get-Date -Format "yyyy-MM-dd")*
+# Sari E-Commerce Project
+
+## About
+A modern e-commerce platform for traditional Indian saris.
+
+## Features
+- Product catalog
+- Shopping cart
+- User authentication
+- Payment integration
+
+## Technology Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express
+- Database: MongoDB
